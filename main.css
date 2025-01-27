@@ -1,0 +1,93 @@
+.text {
+    text-align: center;
+    border-radius: 50px;
+    background-color: aqua;
+    border: 180px;
+    color: blue;
+    font-size: 23px;
+    border-color: brown;
+}
+ h2 {
+    font-size: 12px;
+ }
+  .text3 {
+    color: darkgreen;
+    font-size: 21px;
+  }
+  .text4 {
+    color: darkgreen;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 50px;
+    font-size: 23px;
+  }
+  .img-1 {
+    width: 600px;
+    
+  }
+  .text5 {
+    color: darkgreen;
+    background-color: yellow;
+    text-align: center;
+    font-size: 23px;
+  }
+  .img-2 {
+    width: 300px;
+    height: 300px;
+  }
+  .ben {
+    font-size: 15px;
+    color: green;
+  }
+  input {
+    width: 800px;
+    height: 50px;
+  }
+  .ben2 {
+    font-size: 15px;
+    color: green;
+  }
+  blockquote {
+    width: 200px;
+    background-color: blue;
+    text-align: left;
+    color: white;
+  }
+  .text6 {
+    font-size: 23px;
+    color: green;
+    background-color: yellow;
+    border-radius: 50px;
+    text-align: center;
+  }
+  .bg-blue {
+    background-color: green;
+    text-align: center;
+    width: 300px;
+    color: white;
+  }
+  .bg {
+    background-color: blue;
+    text-align: center;
+    width: 500px;
+    color: white;
+  }
+  .bg-black {
+    background-color: red;
+    text-align: center;
+    width: 300px;
+    color: white;
+  }
+  .bg-red {
+    background-color: red;
+    width: 300px;
+    text-align: center;
+    color: white;
+
+  }
+  tr,td {
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+
